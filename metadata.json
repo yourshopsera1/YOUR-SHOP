@@ -1,0 +1,9 @@
+{
+  "name": "Arzu & Sera AI Manager",
+  "description": "A high-end AI command center for ArzuBazar and YourShopSera, featuring advanced image/video generation, live voice interaction, and deep data grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
